@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: "Idee vorschlagen \U0001F4A1"
 about: Hast du eine Idee? Teile sie mit uns!
 title: "[Feature]"
 labels: enhancement

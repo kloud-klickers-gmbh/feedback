@@ -1,5 +1,5 @@
 ---
-name: Fehler melden
+name: "Fehler melden \U0001F41E"
 about: Melde ein Problem und hilf uns, kloud klickers zu verbessern
 title: "[BUG]"
 labels: bug
